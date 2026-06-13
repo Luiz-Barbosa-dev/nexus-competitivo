@@ -1,0 +1,10 @@
+.fundo-aplicacao {
+    background-color: #18181b; 
+    min-height: 100vh;
+    color: white;
+}
+
+.cartao-jogador:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease;
+}
