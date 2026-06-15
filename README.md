@@ -1,4 +1,6 @@
-# Nexus Competitivo 
+https://nexus-competitivo.vercel.app/
+
+Nexus Competitivo 
 
 Sistema Web SPA (Single Page Application) desenvolvido como Atividade Avaliativa Final para a disciplina de Programação Front-End da UniCesumar (Campus Ponta Grossa).
 
